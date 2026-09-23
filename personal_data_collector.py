@@ -1,5 +1,3 @@
-from datetime import datetime
-
 print("Welcome to the Interactive Personal Data Collector!")
 print("This program collects some basic information from you.\n")
 
